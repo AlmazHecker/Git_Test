@@ -1,0 +1,8 @@
+.Expenses{
+    margin: 0 auto;
+    width: 1000px;
+    border: 20px solid rgb(83,255,9);
+    border-radius: 50px;
+    background-color: green;
+    padding: 20px;
+}
